@@ -1,6 +1,6 @@
 
 
-```md
+
 👋 Hi, I’m Satyam Kumar (@Satyamkumark1)
 
 ## 👀 About Me
@@ -20,7 +20,7 @@
 
 ## 📫 How to Reach Me  
 - LinkedIn: [https://www.linkedin.com/in/satyam-kumar-24241130b/(#)  
-- Twitter/X: [Your Twitter Handle](#)  
+
 - Email: [Satyamnagar26@gmail.com](#)  
 
 ## 😄 Fun Fact  
@@ -29,4 +29,3 @@
 
 ---
 
-This README makes your profile engaging and professional. Feel free to modify it to add personal touches! 😊
